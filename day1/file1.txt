@@ -1,0 +1,102 @@
+Perfect! 🚀 Welcome to Day 1 of your DevOps journey, starting July 12, 2025. Here's exactly what you should do today:
+
+✅ Day 1 Goals
+Set up your environment
+
+
+Get comfortable with the Linux terminal
+
+
+Learn basic file and directory commands
+
+
+Document what you learn in a GitHub repo or personal notes
+
+
+
+🖥 Step 1: Set Up Your Environment
+Choose one of the following:
+🔹 If on Windows:
+Install WSL2 + Ubuntu
+
+
+🔹 If on Mac:
+Use built-in Terminal (already Unix-based)
+
+
+🔹 If you prefer Virtual Machine:
+Install VirtualBox + Ubuntu ISO
+ Download Ubuntu
+
+
+🔹 Optional: Try AWS Free Tier
+Create an EC2 instance using Ubuntu
+
+
+
+💻 Step 2: Practice Basic Linux Commands
+Open the terminal and practice:
+pwd            # Show current directory
+ls             # List directory contents
+ls -la         # Show hidden files + details
+cd             # Change directory
+mkdir test     # Create a directory
+touch file.txt # Create an empty file
+nano file.txt  # Edit file (or use vim if you know it)
+rm file.txt    # Delete file
+
+📝 Task: Create a directory called day1, navigate into it, and create 2 text files.
+
+⚙️ Step 3: Install Basic DevOps Tools
+On Ubuntu:
+sudo apt update
+sudo apt install git curl wget net-tools tree htop -y
+
+
+🗂️ Step 4: Create a GitHub Repo (optional but encouraged)
+Go to GitHub
+
+
+Create a new repository: devops-journey
+
+
+On your terminal:
+
+
+git config --global user.name "Your Name"
+git config --global user.email "your@email.com"
+git clone https://github.com/YOUR_USERNAME/devops-journey.git
+cd devops-journey
+mkdir day1
+
+Add your notes/scripts inside day1/
+
+
+Push to GitHub:
+
+
+git add .
+git commit -m "Day 1: Linux basics and setup"
+git push origin main
+
+
+🎯 End of Day 1 Checklist
+✅ Linux/WSL/Ubuntu VM installed
+
+
+✅ Terminal running and tested basic commands
+
+
+✅ Installed essential packages (git, curl, htop, etc.)
+
+
+✅ Created and navigated folders via CLI
+
+
+✅ Created GitHub repo for your journey (or documented locally)
+
+
+
+Would you like me to give you a short daily routine and checklist for the next 6 days of Week 1?
+
+
