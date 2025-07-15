@@ -8,5 +8,5 @@ while [ $count -ge 1 ]; do
   ((count--))
 done
 
-echo "🚀 Lift off!"
+echo "🚀 branch_1 ready to Lift off!"
 
